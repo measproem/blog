@@ -9,21 +9,8 @@
 ```markdown
 មានដូចជា
 
-# កូដ-Code (ភាសាកុំព្យូទ័រ)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# កូដ-Code (ភាសាកូដកុំព្យូទ័រ)
+# បំរើសបំរាស់បច្ចេកវិទ្យា (ការប្រើប្រាស់ប្រព័ន្ធកម្មវិធីកុំព្យូទ័រ)
 
 ### សូមថ្លែងអំណរគុណ
-សូមថ្លែងអំណរគុណចំពោះការអាននិងចូលចិត្ត
-
+សូមថ្លែងអំណរគុណចំពោះការអាននិងចូលចិត្តរបស់លោកអ្នកយ៉ាងជ្រាលជ្រួលជាទីពំផុត
