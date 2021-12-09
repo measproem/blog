@@ -1,9 +1,7 @@
 ## សូមស្វាគមន៍មកកាន់ ទំព័រ ផ្ទាល់ខ្លួន របស់ Meas IO
 
-You can use the [editor on GitHub](https://github.com/measproem/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+ខ្ញុំបាទបង្កើតទំព័រនេះឡើងដើម្បីចែករំលែកនូវអ្វីដែលខ្ញុំបានស្រាវជ្រាវ ដើម្បីជាប្រយោជន៍ដល់បងៗប្អូនៗកូនក្មួយអ្នកសិក្សារផ្នែកបច្ចេកវិទ្យា ខ្ញុំបាទខ្លួនឯងក៏មានសម្ថភាពការយល់ដឹងមានកំរិតតិចបំផុតដែលនឹងជៀសពុំរួចពីការភ្លាំងភ្លាត់ឆកល្វែងក្នុងអត្ថបទស្រាវជ្រាវណាមួយជាក់ជាពុំខាន ហើយរាល់ការស្រាវជ្រាវទៀតសោតគឺពុំមានការពិនិត្យ
+ផ្ទៀងផ្ទាត់អោយជាក់លាក់ឡើយសូម្បីតែអក្ខរាការប្រែពីភាសាបរទេសក៏ពុំបានត្រឹមត្រូវតាមអត្ថន័យដើមរបស់គេឡើយ។
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
