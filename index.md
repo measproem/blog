@@ -16,6 +16,6 @@
 ### សូមថ្លែងអំណរគុណ
 សូមថ្លែងអំណរគុណចំពោះការអាននិងចូលចិត្តរបស់លោកអ្នកយ៉ាងជ្រាលជ្រៅជាទីពំផុត
 អាស័យដ្ឋានអេឡិចត្រូនិចរបស់ខ្ញុំ:
-- :link: https://twitter.com/measproem/
-- :link: https://www.facebook.com/measio.tech
-- :link: https://www.linkedin.com/in/measproem
+- https://twitter.com/measproem/
+- https://www.facebook.com/measio.tech
+- https://www.linkedin.com/in/measproem
