@@ -19,3 +19,11 @@
 - https://twitter.com/measproem/
 - https://www.facebook.com/measio.tech
 - https://www.linkedin.com/in/measproem
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
