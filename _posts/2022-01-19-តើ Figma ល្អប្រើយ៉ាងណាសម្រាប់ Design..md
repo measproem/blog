@@ -8,13 +8,13 @@
 
 **Figma** ពេញនិយមណាស់សម្រាប់ការងារ​ **Designer**, **Manager**, **Developer** ...
 
-![](D:\my_project\Meas\Blog-MeasIO\Markdown\artice01-Figma\images\Figma.png)
+![](/assets/img/Figma.png)
 
 គេអាចហៅវាថាជាប្រភេទ **Vector Network** ព្រោះអាចគូសរូប vector components និង object ផ្សេងៗបានដូចជា frames, shapes, text, etc, image មិនតែប៉ុននោះវា support ជាស្រទាប(Layers) , ផ្ទាំងរូប(Canvas)  ហើយយើងអាចត្រួតពិនិត្យលើ object និមួយៗបាន(Inspector)
 
-![](/assets/img/figma-101/day-1-1.png)
+![](/assets/img/figma-01.png)
 
-![](/assets/img/figma-101/day-1-2.png)
+![](/assets/img/figma-02.png)
 
 ![](/assets/img/figma-subway.png)
 
