@@ -20,6 +20,6 @@ animejs.com នេះគេដាក់ជា Open Source លើបណ្ដា�
 
 សូមជម្រាបផងដែរថា **animejs.com** ក៏អាចលេង animation ដោយគ្រាន់តែ ប្ដូរ CSS properties នៅលើ single HTML element បាន។
 
-បងប្អូនកូនក្មួយដែលស្រលាញ់វិស័យអាយធី web frontend អាចស្វែងយល់ស្រាវជ្រាវបន្ថែមដើម្បីយកទៅ develop profesional website អោយកាន់តែមានទឹកដៃ។
+បងប្អូនកូនក្មួយដែលស្រលាញ់វិស័យអាយធី web frontend អាចស្វែងយល់ស្រាវជ្រាវបន្ថែមដើម្បីយកទៅ develop professional website អោយកាន់តែមានទឹកដៃ។
 
 ![](/assets/img/animejs.com/animejs.com-demo04.gif)
